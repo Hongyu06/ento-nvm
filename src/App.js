@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          No<code>sortira la</code> vandal chonovoid.
+          No et <code>sortira la</code> vandal chonovoid.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://genshin.hoyoverse.com/es/home"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Cosa God
         </a>
       </header>
     </div>
